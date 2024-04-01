@@ -1,0 +1,87 @@
+.navbar-1 {
+  background-color: rgb(44, 62, 80);
+  color: white;
+  padding: 20px;
+  font-size: xx-large;
+}
+.navbar-yazi {
+  font-size: large !important;
+  text-align: center;
+  padding-top: 10px;
+}
+.navbar-yazi a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.navbar-yazi a:hover {
+  color: gray;
+}
+.header {
+  background-color: rgb(26, 188, 156);
+  padding: 50px;
+}
+.img-res {
+  padding-top: 10px;
+  width: 400px;
+  height: 340px;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+.p1 {
+  color: white;
+  text-align: center;
+}
+.portfolio-text {
+  font-size: 48px;
+  color: rgb(44, 62, 80);
+  margin-top: 10px;
+}
+.portfolio {
+  background-color: white;
+  text-align: center;
+}
+
+.portfolio-1 {
+  margin-top: 15px;
+}
+.img-1 {
+  border-radius: 5px;
+}
+.about-1 {
+  background-color: rgb(26, 188, 156);
+  margin-top: 18px;
+}
+.about-text h2 {
+  color: white;
+  text-align: center;
+  font-size: 48px;
+  padding-top: 50px;
+}
+.about-lorem {
+  font-size: bold;
+  font-size: 16px;
+  color: white;
+}
+.footer-top {
+  background-color: rgb(44, 62, 80);
+  color: white;
+  padding: 6rem;
+  text-align: center;
+  font-size: large;
+}
+.footer-top strong {
+  font-size: 24px;
+}
+footer #cont {
+  margin: 0px;
+  padding: 0px;
+}
+.footer-bottom {
+  background-color: rgb(26, 37, 47);
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
